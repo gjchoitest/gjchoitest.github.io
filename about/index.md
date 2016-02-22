@@ -18,10 +18,11 @@ image:
 
 ## 블로그 구성
 > github page로 서비스하는 jekyll을 사용하여 본 블로그는 제작되었으며,
-아래의 jekyll Minimal Mistakes Theme 테마를 사용하여 구성하였습니다.
+아래의 jekyll `Minimal Mistakes` 테마를 사용하여 구성하였습니다.
 
+## Jekyll Theme 관련
 
-## Minimal Mistakes is all about:
+### Minimal Mistakes is all about:
 
 * Responsive templates. Looking good on mobile, tablet, and desktop.
 * Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
@@ -33,7 +34,7 @@ image:
 
 <a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
 
-## Minimal Mistakes is all about:
+### Minimal Mistakes is all about:
 
 * Responsive templates. Looking good on mobile, tablet, and desktop.
 * Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
