@@ -63,8 +63,7 @@ Jekyll theme 마켓 사용하여 배포해보기
 
 
 ##### Jekyll theme 선택
-![테마선택](http://gjchoi.github.io/img/github-page/theme_market_img2.png)
-
+![테마선택](http://gjchoi.github.io/img/github-page/theme_market_img2.png)  
 
 그 중에 마음에 드는 theme를 선택했다면 Homepage버튼을 선택해서 fork를 하는 방법과 Download를 눌러 나온 데이터를 github에 commit하는 방법 두가지가 있는데 필자는 그중에 2번째 방법으로 선택했다. 구체적으로 설명하면 다음과 같다.
 
@@ -83,8 +82,8 @@ Jekyll theme 마켓 사용하여 배포해보기
 
 이정도만 해주면 싸이트에 생성은 어느정도 완성된 것이다. 최초 배포이므로 시간이 좀 소요되는데 배포가 완료되었다면 *http://{계정이름}.github.io*로 접근하면 아까 선택했던 theme로 블로그가 완성된 모습을 볼 수 있다.  
 
-**!주의 : 만약 시간이 30분도 넘게 흘렀는데 아무런 반응이없다면 github가입시 사용한 email에 가서 메일이 와있는지 확인해봐야 한다. 왜냐하면 github page의 jekyll이 배포에 실패하였거나 warning사항이 있을때 메일로 메시지를 보내주기 때문이다.**
-
+**!주의 : 만약 시간이 30분도 넘게 흘렀는데 아무런 반응이없다면 github가입시 사용한 email에 가서 메일이 와있는지 확인해봐야 한다. 왜냐하면 github page의 jekyll이 배포에 실패하였거나 warning사항이 있을때 메일로 메시지를 보내주기 때문이다.**  
+  
 필자의 경험상 메일이오는 경우는 크게 2가지다.
 
 
@@ -103,15 +102,19 @@ Jakyll 디렉토리 구조를 보면 보통 아래와 같은 디렉토리들을 
 
 
 #### _includes
+
 : footer, header 등 html flagment들
 
 #### _layout
+
 : page생성시 페이지 앞부분에 선언하여 선택하는 layout (jsp의 tile같은 느낌)
 
 #### _posts
+
 : markdown(.md) 등 블로그 글들이 저장되는 디렉토리
 
 #### _sass
+
 : css모음 (scss)
 
 
@@ -121,7 +124,7 @@ Jekyll 페이지 만들어보기
 Jekyll페이지는 _posts에 .md파일을 만들어 넣는 것만으로 페이지만들기는 끝이다. 대신 jekyll의 markdown은 `'kramdown'`을 사용하므로 `'kramdown'` 문법에 맞추어 작성해야 한다. `'kramdown'`에 대한 자세한 사용법은 다음 posting에서 다루기로 하자.
 
 #### .md파일 샘플사진
-![.md파일 샘플사진](http://gjchoi.github.io/img/github-page/md_sample_img1.png)
+![.md파일 샘플사진](http://gjchoi.github.io/img/github-page/md_sample_img1.png)  
 
 ~~~
 ---
