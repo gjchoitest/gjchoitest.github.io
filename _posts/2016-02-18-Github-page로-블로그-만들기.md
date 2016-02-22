@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Github page로 블로그 호스팅
+title: Github Page로 블로그 호스팅
+excerpt: "누구나 쉽게 Github Page로 블로그 서비스하는 방법에 대한 설명"
+tags: [sample post, code, highlighting]
+modified: 2016-02-22
+comments: true
 category : env
 ---
-
-
-
-Github Page란?
----------------
 
 Github에서 Repository에 html혹은 markdown .md 파일을 commit하는것만으로 본 블로그처럼 웹페이지를 별도의 서버와 도메인을 갖고 있지 않아도 사용 할 수 있게 해준다.
 
