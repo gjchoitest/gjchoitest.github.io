@@ -13,7 +13,7 @@ image:
 
 ## About
 > IT 기술에 대해서 연구해보고 정리해보는 개인 블로그입니다.
-ServerSide, FrontEnd, Android 등의 다양한 경험을 바탕으로 구체적인 기술에 대해 정리하고 공유하는데 목적을 두고자 합니다.
+프로그래밍 언어, ServerSide/FrontEnd 기술, Opensource 등의 다양한 경험을 바탕으로 구체적인 기술에 대해 정리하고 공유하는데 목적을 두고자 합니다.
 
 
 ## 블로그 구성
