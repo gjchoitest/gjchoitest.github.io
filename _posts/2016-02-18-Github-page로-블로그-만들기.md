@@ -101,20 +101,16 @@ Jekyll 디렉토리 구조
 Jakyll 디렉토리 구조를 보면 보통 아래와 같은 디렉토리들을 가지고 있다.
 
 
-#### _includes
-
+_includes
 : footer, header 등 html flagment들
 
-#### _layout
-
+_layout
 : page생성시 페이지 앞부분에 선언하여 선택하는 layout (jsp의 tile같은 느낌)
 
-#### _posts
-
+_posts
 : markdown(.md) 등 블로그 글들이 저장되는 디렉토리
 
-#### _sass
-
+_sass
 : css모음 (scss)
 
 
