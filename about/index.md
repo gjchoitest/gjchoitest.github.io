@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About the Theme
+title: About IT 노트
 tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
+modified: 2016-02-23
 comments: true
 image:
   feature: sample-image-2.jpg
@@ -10,7 +10,28 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+
+## About
+> IT 기술에 대해서 연구해보고 정리해보는 개인 블로그입니다.
+ServerSide, FrontEnd, Android 등의 다양한 경험을 바탕으로 구체적인 기술에 대해 정리하고 공유하는데 목적을 두고자 합니다.
+
+
+## 블로그 구성
+> github page로 서비스하는 jekyll을 사용하여 본 블로그는 제작되었으며,
+아래의 jekyll Minimal Mistakes Theme 테마를 사용하여 구성하였습니다.
+
+
+## Minimal Mistakes is all about:
+
+* Responsive templates. Looking good on mobile, tablet, and desktop.
+* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
+* Minimal embellishments -- content first.
+* Optional large feature images for posts and pages.
+* Simple and clear permalink structure.
+* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
+* Support for Disqus Comments
+
+<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
 
 ## Minimal Mistakes is all about:
 
