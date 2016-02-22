@@ -3,10 +3,16 @@
    ========================================================================== */
 
 h1 {
-  padding-bottom : 0.5rem;
-  border-bottom : solid 3px #323232;
+    padding-bottom: 0.8rem;
+    border-bottom: solid 0.3rem #343434;
 }
 
 p {
   padding-bottom : 0.5rem;
+}
+
+div .view{
+    padding: 1em;
+    margin: 1em;
+    border: 3px solid #eee;
 }
